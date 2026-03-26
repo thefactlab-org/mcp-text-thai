@@ -53,7 +53,8 @@ Add to your MCP config:
 
 You can use the MCP Text Thai server for free via the public endpoint below:
 
-- **URL:** http://mcp-text-thai.thefactlab.org/mcp
+- **Name:** mcp-text-thai
+- **URL:** https://mcp-text-thai.thefactlab.org/mcp
 - **Type:** HTTP MCP Server
 - **Cost:** Free (no subscription required)
 
