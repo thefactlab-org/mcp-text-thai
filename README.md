@@ -64,7 +64,7 @@ You can use the MCP Text Thai server for free via the public endpoint below:
   "mcpServers": {
     "mcp-text-thai": {
       "type": "http", // or "streamableHttp" for Cline extension
-      "url": "http://mcp-text-thai.thefactlab.org/mcp"
+      "url": "https://mcp-text-thai.thefactlab.org/mcp"
     }
   }
 }
